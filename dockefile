@@ -1,1 +1,1 @@
-FROM docker pull apache/rocketmq:5.0.0
+FROM apacherocketmq/rocketmq-nameserver:4.9.5
